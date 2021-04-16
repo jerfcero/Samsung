@@ -1,0 +1,12 @@
+HardReset.info:
+Primer método:
+1. En el primer paso, mantenga presionada la tecla Bajar volumen + Encendido durante unos segundos.
+2. Cuando la pantalla se oscurece, presione los botones Subir volumen y Encendido durante unos segundos.Borrar datos en SAMSUNG Galaxy A71
+3. Suelte todos los botones si aparece el logotipo de SAMSUNG Galaxy .
+4. Ahora elija borrar datos / restablecimiento de fábrica. Use los botones de Volumen para desplazarse hacia abajo y la tecla de Encendido para aceptarlo.
+
+First method:
+1. In the first step, press and hold the Volume Down + Power key for a few seconds.
+2. When the screen darkens, press the Volume Up and Power buttons for a few seconds. Delete data on SAMSUNG Galaxy A71
+3. Release all buttons if the SAMSUNG Galaxy logo appears.
+4. Now choose Erase Data/ Factory Reset. Use the Volume buttons to scroll down and the Power key to accept it.
